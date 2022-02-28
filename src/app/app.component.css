@@ -1,0 +1,41 @@
+.main {
+    padding: 20px;
+    background: url('../assets/rus.jpg') no-repeat right center fixed;
+    background-size: contain;
+    height: 100vh;
+    width: 100%;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    outline: none;
+}
+
+.input {
+    margin-bottom: 5px;
+}
+
+.target {
+    display: flex;
+
+}
+
+.target-info {
+    margin-right: 10px;
+}
+
+.target-list {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    margin-right: 10px
+}
+
+.delete {
+    color: grey;
+    font-size: 20px;
+    cursor: pointer
+}
